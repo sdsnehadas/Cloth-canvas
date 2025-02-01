@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "build",
+    "github": {
+    "repo": "https://github.com/sdsnehadas/click-flix-gpt",
+    "branch": "main" 
+  },
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
